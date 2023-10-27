@@ -1,0 +1,20 @@
+nav a:link {
+    text-decoration: none;
+    color:cornflowerblue;
+}
+
+nav a:visited {
+    color: blue;
+}
+
+nav a:hover {
+    color: brown;
+}
+
+nav a:active {
+    color: aquamarine;
+}
+
+nav a:focus {
+    color: blueviolet;
+}
